@@ -1,6 +1,6 @@
 
-import openpyxl
-import pandas as pd
+openpyxl
+pandas as pd
 from analyticskit import *
 
 pd.options.display.float_format = '{:,.2f}'.format # Display option to include 2 decimal places on all floats

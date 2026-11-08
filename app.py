@@ -47,7 +47,6 @@ product_prices
 # INSERT ANSWER FOR QUESTION 3 HERE
 # import datetime as dt
 from analyticskit import *
-import openpyxl
 df = get_pdf('MasterInvoice.pdf')
 df
 
